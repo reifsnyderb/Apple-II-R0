@@ -2911,7 +2911,6 @@
   )
 
   (no_connect (at 48.26 241.3) (uuid 9d5b1d31-2261-4c80-98fa-63b775c9cfc1))
-  (no_connect (at 191.77 134.62) (uuid be33fbcd-d55b-476c-8fe4-da2511b52521))
 
   (bus_entry (at 302.26 108.204) (size -2.54 2.54)
     (stroke (width 0) (type default))
@@ -4058,6 +4057,11 @@
     (stroke (width 0) (type default))
     (uuid a3b448a7-8641-4aae-a408-60cafca67659)
   )
+
+  (wire (pts (xy 191.77 134.62) (xy 195.58 134.62))
+    (stroke (width 0) (type default))
+    (uuid a57ed483-2277-430f-b363-f40372b51e4d)
+  )
   (bus (pts (xy 276.86 220.98) (xy 276.86 228.6))
     (stroke (width 0) (type default))
     (uuid a5bd023e-bad3-4063-8d50-b2c62f9bfe5e)
@@ -4978,6 +4982,13 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 747557ac-a7a4-4375-b865-99ebf92b6614)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 306.07 74.93 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+  (global_label "~{INH}" (shape output) (at 195.58 134.62 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 75425249-db9e-4437-965c-4ca8cec9ce8c)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 195.58 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
