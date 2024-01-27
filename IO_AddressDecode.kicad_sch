@@ -3183,7 +3183,7 @@
     (uuid 2e74314f-e1ff-4187-90c0-f2660325844c)
   )
   (text "IO Strobe - Goes low to all \nPeripheral Connectors (slots)\nwhen accessing address ranges\nC800-C8FF"
-    (at 101.6 69.85 0)
+    (at 97.79 72.39 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 399f7758-b388-4475-9223-252f58e9b545)
   )
@@ -3203,7 +3203,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 60ddf362-7382-45f5-828e-f34cee39122a)
   )
-  (text "C061" (at 203.2 106.68 0)
+  (text "C061" (at 182.88 106.68 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6d786229-2fe9-4f99-a6f1-5da23d175b7e)
   )
@@ -3215,7 +3215,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 700f06e2-2ce7-428f-a635-97c99c10ae67)
   )
-  (text "C062" (at 203.2 104.14 0)
+  (text "C062" (at 182.88 104.14 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7e332231-faf4-4663-b8e2-805c4bb98a38)
   )
@@ -3227,7 +3227,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 90df630f-c613-478b-ba7c-ea70c494d2ec)
   )
-  (text "C060" (at 203.2 109.22 0)
+  (text "C060" (at 182.88 109.22 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 997cd029-1dfd-4e1c-931f-37666ee8966b)
   )
@@ -5617,7 +5617,7 @@
   (symbol (lib_id "AppleII+:AppleII+_Keyboard_Connector") (at 251.46 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 38b34698-242f-42bb-a38a-79ed67b8e7f9)
-    (property "Reference" "A1" (at 251.46 160.02 0)
+    (property "Reference" "A7" (at 251.46 160.02 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Keyboard_Connector" (at 252.222 182.626 0)
@@ -5648,7 +5648,7 @@
     (instances
       (project "AppleII"
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
-          (reference "A1") (unit 1)
+          (reference "A7") (unit 1)
         )
       )
     )
@@ -5657,7 +5657,7 @@
   (symbol (lib_id "74xx:74LS138") (at 63.5 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3c5bf480-a5bf-4b72-b703-2078fa70fa05)
-    (property "Reference" "F3" (at 69.596 54.102 0)
+    (property "Reference" "F12" (at 69.596 54.102 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS138" (at 67.818 56.134 0)
@@ -5688,7 +5688,7 @@
     (instances
       (project "AppleII"
         (path "/f1f08369-4db3-46f7-9b89-a5d3cfbed55a/00000000-0000-0000-0000-00006017a131"
-          (reference "F3") (unit 1)
+          (reference "F12") (unit 1)
         )
       )
     )
