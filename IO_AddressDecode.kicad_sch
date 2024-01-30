@@ -3595,7 +3595,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (global_label "~{RESET}" (shape input) (at 237.236 167.64 180)
+  (global_label "~{RST}" (shape input) (at 237.236 167.64 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 40b0a1f6-5404-4a8e-9dc3-566a11eeb4ee)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 237.236 167.64 0)
