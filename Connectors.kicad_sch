@@ -790,7 +790,7 @@
   )
 
   (no_connect (at 258.572 154.94) (uuid 0dbb0626-6c64-41e4-baab-057f9d75cec4))
-  (no_connect (at 269.24 148.082) (uuid 807d6c7f-2aea-4f3c-b602-9f7aefa2496c))
+  (no_connect (at 260.35 157.48) (uuid a47a174c-f763-47ff-b187-62ad816b78d8))
   (no_connect (at 96.52 66.04) (uuid c1d12bec-7598-4b55-9c9e-bb66d0e160a7))
   (no_connect (at 96.52 68.58) (uuid cc0dc712-5dd4-46d6-8369-743604176017))
   (no_connect (at 109.22 124.46) (uuid d66f6e03-7d18-4715-8861-291dda5b7867))
