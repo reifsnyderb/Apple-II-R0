@@ -4172,7 +4172,7 @@
     (uuid 53a3d80b-09ed-4301-bcf6-e1ded6ce1dd5)
   )
   (text "Video Memory:\nText P1		$400	$7FF\nText P2		$800	$BFF\nLow Res P1	$400	$7FF\nLow Res P2	$800	$BFF\nHi Res P1	$2000	$3FFF\nHi Res P2	$4000	$5FFF"
-    (at 374.65 34.29 0)
+    (at 367.03 39.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 768c408f-51ef-4883-ab1e-0c10d2d1296f)
   )

@@ -5765,7 +5765,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (global_label "SOFT5" (shape input) (at 80.01 231.14 180)
+  (global_label "SOFT5a" (shape input) (at 80.01 231.14 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid cb9b5130-f4c5-4ac0-89a9-e517ec7b7f0d)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 80.01 231.14 0)
