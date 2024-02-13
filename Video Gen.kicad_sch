@@ -8729,7 +8729,7 @@
     (property "Value" "TestPoint" (at 170.688 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (at 173.99 117.094 0)
+    (property "Footprint" "Apple-II:TestPoint" (at 173.99 117.094 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 117.094 0)
