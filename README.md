@@ -19,6 +19,5 @@ substitutes have been used with part number references.
 ## Current Status
 
 1) Some errors have been found and corrected.
-2) Additional work needs to be done to clean-up the schematic.
-3) PCB is fully routed but needs mounting holes placing
-4) Labelling (silkscreen) on the PCB is messy and needs cleaning up
+2) Minor work needs to be done to clean-up the schematic.
+3) Minor cleanup is needed on the PCB.
