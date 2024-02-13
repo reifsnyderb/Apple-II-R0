@@ -6420,11 +6420,6 @@
       (net 376 "unconnected-(B14-I4-Pad15)") (pinfunction "I4") (pintype "input+no_connect") (tstamp 56d1303a-16ed-40c3-974e-a8844df9a5f5))
     (pad "16" thru_hole oval locked (at 7.62 0 180) (size 2.4 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 1 "+5V") (pinfunction "VCC") (pintype "power_in") (tstamp 07b8039d-6a8d-4cd7-abd1-a99e2c794ab1))
-    (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "Apple-II:User-1" locked (layer "F.Cu")
