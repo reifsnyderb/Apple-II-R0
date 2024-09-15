@@ -3,7 +3,7 @@
 ![Render of reproduction board](AppleII-populated.png)
 
 ## Goal
-THe primary goal is to have an accurate KiCAD schematic of the 
+The primary goal is to have an accurate KiCAD schematic of the 
 Apple II Revision 0 System Board. This is supplemented with a
 complete reproduction PCB that can be fabricated.
 
