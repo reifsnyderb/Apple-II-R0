@@ -605,6 +605,7 @@
 		(property "Reference" "C6"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1152931a-20d6-441b-a814-f458179c2857")
 			(effects
 				(font
@@ -1037,6 +1038,7 @@
 		(property "Reference" "D11"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "45995920-dd03-4b89-93e5-c4c3f80e7607")
 			(effects
 				(font
@@ -1457,6 +1459,7 @@
 		(property "Reference" "D10"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b0eaffcf-9a45-4e32-a9a6-7b0cf87f6816")
 			(effects
 				(font
@@ -1889,6 +1892,7 @@
 		(property "Reference" "R19"
 			(at 5.08 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "57bcf8c8-c632-4b74-a269-f433495ed61a")
 			(effects
 				(font
@@ -2221,6 +2225,7 @@
 			(at 2.3838 1.2446 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d05ef187-dc78-43ff-8495-1d6bdde3d051")
 			(effects
 				(font
@@ -2385,6 +2390,7 @@
 			(at 2.714 1.7272 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "133f0143-cdb0-401c-b02c-864fbaf21b53")
 			(effects
 				(font
@@ -2550,6 +2556,7 @@
 		(property "Reference" "B9"
 			(at 3.8354 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a205b7ed-da3e-4d89-9860-7a9ad43dc680")
 			(effects
 				(font
@@ -2969,6 +2976,7 @@
 			(at 2.6016 1.0668 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d04664aa-5657-44c9-9028-33f061223fb5")
 			(effects
 				(font
@@ -3080,14 +3088,14 @@
 			(layer "F.CrtYd")
 			(uuid "a2a30c38-e158-4f4a-88cc-bf371a9cb56c")
 		)
-		(fp_text user "22nF"
-			(at -4.7644 -0.2032 0)
+		(fp_text user "0.022UF"
+			(at -6.8716 0.166 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "dbad5dd6-618c-4a08-aa39-8cba5e9eca47")
 			(effects
 				(font
-					(size 2 2)
+					(size 1.9 1.9)
 					(thickness 0.3)
 				)
 			)
@@ -3146,6 +3154,7 @@
 		(property "Reference" "R18"
 			(at 5.1308 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "26715b2e-ac3d-4b75-899c-d3f3ad104472")
 			(effects
 				(font
@@ -3478,6 +3487,7 @@
 			(at 2.5616 0.9652 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "63608755-11ea-42d3-8612-55fcea12fe87")
 			(effects
 				(font
@@ -3589,14 +3599,14 @@
 			(layer "F.CrtYd")
 			(uuid "121bab69-b982-4ea4-8c78-e66c8be42f85")
 		)
-		(fp_text user "22nF"
-			(at -4.8044 0 0)
+		(fp_text user "0.022UF"
+			(at -6.9116 1.1368 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "520af1f2-5de3-4d71-8b89-52300daebb14")
 			(effects
 				(font
-					(size 2 2)
+					(size 1.9 1.9)
 					(thickness 0.3)
 				)
 			)
@@ -4989,6 +4999,7 @@
 		(property "Reference" "E5"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c5e35d8b-5090-461a-8cf6-39cb54029b30")
 			(effects
 				(font
@@ -5532,6 +5543,7 @@
 		(property "Reference" "C5"
 			(at 3.81 -0.8128 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "36d77df8-cd0b-498f-8f69-4eb60661f232")
 			(effects
 				(font
@@ -5964,6 +5976,7 @@
 		(property "Reference" "B3"
 			(at 3.8354 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "359e9f83-6b35-40f1-9f03-ead637fbf7ce")
 			(effects
 				(font
@@ -6388,6 +6401,7 @@
 			(at 2.5194 -1.3208 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "8877f5d0-16bc-4820-8800-7339cca7a112")
 			(effects
 				(font
@@ -6553,6 +6567,7 @@
 		(property "Reference" "Q2"
 			(at 1.1938 -1.9812 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "917c17c0-91f7-44f1-8b61-83e6eb2eeebc")
 			(effects
 				(font
@@ -6836,6 +6851,7 @@
 		(property "Reference" "ROM-E0"
 			(at 7.62 -0.508 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a8500d55-107d-4a51-806a-696e400cbc39")
 			(effects
 				(font
@@ -7909,6 +7925,7 @@
 		(property "Reference" "D1"
 			(at 3.8862 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b7d7991f-efd8-4baf-a6f5-78867ab4e610")
 			(effects
 				(font
@@ -8306,6 +8323,7 @@
 			(at 2.2098 -1.6764 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0563b2ed-2845-49f6-b431-43e982d423e4")
 			(effects
 				(font
@@ -8471,6 +8489,7 @@
 		(property "Reference" "A7"
 			(at 3.81 -0.8128 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "29ce01fe-0b8a-4910-8a21-e58229b16499")
 			(effects
 				(font
@@ -8983,6 +9002,7 @@
 		(property "Reference" "C4"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "02acd3c3-6971-46a5-83d6-16a89fa47f3b")
 			(effects
 				(font
@@ -9415,6 +9435,7 @@
 		(property "Reference" "R16"
 			(at 5.1308 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "9883b162-7208-4de1-85d9-7ae9599a92b2")
 			(effects
 				(font
@@ -9748,6 +9769,7 @@
 		(property "Reference" "R5"
 			(at 5.08 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "5e02068a-29e9-4825-af10-909ca6bb607e")
 			(effects
 				(font
@@ -10747,6 +10769,7 @@
 			(at 2.6016 1.1176 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "067cf946-643d-492f-a062-349d26858877")
 			(effects
 				(font
@@ -10858,18 +10881,6 @@
 			(layer "F.CrtYd")
 			(uuid "8ddc39f4-8bf6-4381-a515-5e9082836072")
 		)
-		(fp_text user "22nF"
-			(at -4.8152 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "862de68d-9673-4caf-bc51-8c16b9cf51c9")
-			(effects
-				(font
-					(size 2 2)
-					(thickness 0.3)
-				)
-			)
-		)
 		(fp_text user "${REFERENCE}"
 			(at 2.494 2.5 0)
 			(unlocked yes)
@@ -10923,6 +10934,7 @@
 			(at 2.5 -1.143 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6882fb30-6fb6-4825-aed9-b4441859189c")
 			(effects
 				(font
@@ -11088,6 +11100,7 @@
 		(property "Reference" "R22"
 			(at 5.08 0.0508 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c3c8cf6a-f596-4266-8ac6-e6870fcf5c1c")
 			(effects
 				(font
@@ -11421,6 +11434,7 @@
 		(property "Reference" "H2"
 			(at 3.81 -0.6096 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fcd04444-ac0e-4bc5-9f46-c511440a1091")
 			(effects
 				(font
@@ -11841,6 +11855,7 @@
 		(property "Reference" "A9"
 			(at 3.81 -0.8128 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "66e13a51-3074-499e-af3a-db0236384a29")
 			(effects
 				(font
@@ -12261,6 +12276,7 @@
 		(property "Reference" "H11"
 			(at 3.7592 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "58969c0f-925c-4a7c-919c-2b5594edeb86")
 			(effects
 				(font
@@ -12681,6 +12697,7 @@
 		(property "Reference" "J13"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "acb4e8b7-7f20-415c-bbcf-714bd61f8726")
 			(effects
 				(font
@@ -13079,6 +13096,7 @@
 		(property "Reference" "R7"
 			(at 5.08 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "97a9022d-8f88-4d2b-9048-44fa2c2783d4")
 			(effects
 				(font
@@ -13100,7 +13118,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "840342f2-a9b1-4f38-a4db-cfc510e3c6a4")
@@ -13112,7 +13130,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7748b58d-0960-4532-bfc0-8631356e7003")
@@ -13124,7 +13142,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6dcf45e8-2992-4aba-a7ca-5b1c614c735a")
@@ -13412,6 +13430,7 @@
 		(property "Reference" "CR1"
 			(at 5.08 0.0508 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "bc813ffc-865d-4ce7-8d99-0925a3881ceb")
 			(effects
 				(font
@@ -13696,6 +13715,7 @@
 		(fp_text user "K"
 			(at 0 -2.2 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "19cdff40-069c-4dd2-b3fd-8f6014e575ed")
 			(effects
 				(font
@@ -13773,6 +13793,7 @@
 		(property "Reference" "R11"
 			(at -2.54 -1.8046 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d3baa45d-b860-4a3f-add4-69be0fd22d5f")
 			(effects
 				(font
@@ -14070,6 +14091,7 @@
 		(property "Reference" "E14"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "9fb0d130-3475-44c7-b80b-55f092895fca")
 			(effects
 				(font
@@ -14489,6 +14511,7 @@
 			(at 2.5254 -1.4732 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "4bca25d2-0512-4385-aa52-2cf2110d0770")
 			(effects
 				(font
@@ -14801,6 +14824,7 @@
 		(property "Reference" "D9"
 			(at 3.81 -0.6858 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "80be0a36-660f-4276-b1dc-138301120649")
 			(effects
 				(font
@@ -15232,6 +15256,7 @@
 			(at 2.5 -1.524 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6fc7d798-68e3-4c27-8e29-790bafc6a2e6")
 			(effects
 				(font
@@ -15254,7 +15279,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "de545766-5557-4d98-9900-f936504ad03a")
@@ -15266,7 +15291,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "594ca86d-234c-4d44-a0d8-735a685c42d1")
@@ -15278,7 +15303,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "27bf01b0-72a9-444b-9b07-ee33a5866deb")
@@ -15397,6 +15422,7 @@
 		(property "Reference" "A10"
 			(at 3.7846 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "612c9856-dd22-499b-98a2-be79a8342a7e")
 			(effects
 				(font
@@ -16415,6 +16441,7 @@
 		(property "Reference" "Y1"
 			(at 2.6532 -0.0508 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fd576054-ec51-4ad0-a584-94814e8b6478")
 			(effects
 				(font
@@ -16696,6 +16723,7 @@
 		(property "Reference" "H5"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "205babe0-abc9-4e34-a4e6-5087b0ca2ed6")
 			(effects
 				(font
@@ -17647,6 +17675,7 @@
 		(property "Reference" "D2"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "76fa4484-da3b-4d7c-9ac6-5a0473772cca")
 			(effects
 				(font
@@ -18029,6 +18058,7 @@
 		(property "Reference" "E3"
 			(at 3.8608 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0b48e56d-9842-41bb-b3c2-cad34a0752b4")
 			(effects
 				(font
@@ -18461,6 +18491,7 @@
 		(property "Reference" "R12"
 			(at 5.08 0.0508 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d4047991-d974-42fb-96fa-a2f75949ba74")
 			(effects
 				(font
@@ -19126,6 +19157,7 @@
 		(property "Reference" "R29"
 			(at 5.08 -0.0508 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3199cb61-8681-475d-94d7-dfa3df08d1e3")
 			(effects
 				(font
@@ -19458,6 +19490,7 @@
 			(at 2.46 -1.524 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d88db913-5421-4ca7-ae0e-8736f5606023")
 			(effects
 				(font
@@ -19622,6 +19655,7 @@
 			(at 2.4384 -1.5348 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "90616ff0-667c-417d-966f-b40f33a796ad")
 			(effects
 				(font
@@ -19644,7 +19678,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "599ad117-837d-4946-ae70-24469d4c9445")
@@ -19656,7 +19690,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e7cae734-d3d7-4d56-85b2-6cc1fe702099")
@@ -19668,7 +19702,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0c628024-0211-4a8d-87fd-2d2e16f9f795")
@@ -19787,6 +19821,7 @@
 		(property "Reference" "H7"
 			(at 7.5692 -0.3048 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d23e9f16-ee24-426b-9226-1a2894cfe4ed")
 			(effects
 				(font
@@ -19809,7 +19844,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a8299804-6847-4526-b731-fa68ef40979f")
@@ -19821,7 +19856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e8d80919-62a0-481d-8092-fa0d5d47cc21")
@@ -19833,7 +19868,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "83c16327-aa18-40ab-b13d-01508b5f5404")
@@ -20471,6 +20506,7 @@
 			(at 2.6016 -1.3462 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a698da22-aff5-41e1-ac98-4885cbf7dce3")
 			(effects
 				(font
@@ -20636,6 +20672,7 @@
 		(property "Reference" "E13"
 			(at 3.81 -0.6096 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "65a27fdf-05e1-4cef-8868-5b4d033d240c")
 			(effects
 				(font
@@ -21056,6 +21093,7 @@
 		(property "Reference" "D6"
 			(at 3.8354 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3ecec12c-52d6-4e64-adfe-5f54a437cfe7")
 			(effects
 				(font
@@ -21488,6 +21526,7 @@
 		(property "Reference" "H13"
 			(at 3.7592 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1a9ecb2d-459f-467c-9044-e7ad51ebdffb")
 			(effects
 				(font
@@ -21921,6 +21960,7 @@
 		(property "Reference" "E6"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "143f0a2e-7443-468e-a482-97f5052cdb1e")
 			(effects
 				(font
@@ -22352,6 +22392,7 @@
 			(at 2.587 -1.651 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "16112957-3f31-4214-ba46-5300460f96cd")
 			(effects
 				(font
@@ -22374,7 +22415,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b3c1442d-a6c1-4149-aabb-d674bd8dad19")
@@ -22386,7 +22427,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "26bd104a-0a07-457b-9dee-25af3f5ef0f8")
@@ -22398,7 +22439,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "241b7a88-5982-47b2-8671-f87fb4393e08")
@@ -22517,6 +22558,7 @@
 		(property "Reference" "B14"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "78aa0121-cc3a-412f-94a9-c49a927488a9")
 			(effects
 				(font
@@ -23135,6 +23177,7 @@
 		(property "Reference" "E1"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "29617c10-9285-47bb-bb7b-d9b15d6c6b29")
 			(effects
 				(font
@@ -23533,6 +23576,7 @@
 		(property "Reference" "L1"
 			(at 6.35 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "23eba390-5b1b-42ba-b757-e61e30825c1b")
 			(effects
 				(font
@@ -23808,6 +23852,7 @@
 		(property "Reference" "D7"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "7405ef64-38e7-4917-a749-968ecdce22e3")
 			(effects
 				(font
@@ -24240,6 +24285,7 @@
 		(property "Reference" "R15"
 			(at 5.0292 -0.0508 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "ba406c70-1872-4a84-b587-1b9a2ab07302")
 			(effects
 				(font
@@ -24572,6 +24618,7 @@
 			(at 2.5194 -1.27 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "bab4e43a-fdfd-4ecd-a94c-a23a76a46d28")
 			(effects
 				(font
@@ -24736,6 +24783,7 @@
 			(at 2.4492 -1.2192 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "37622699-ff9f-49ff-8a35-d90b36e93bc7")
 			(effects
 				(font
@@ -24900,6 +24948,7 @@
 			(at 2.5194 1.5494 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "60a5bd40-2924-4b9e-85f9-8512f34c1ead")
 			(effects
 				(font
@@ -25064,6 +25113,7 @@
 			(at 2.5194 -1.397 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "07d1dc59-abdc-4d5c-b348-e185d49ddc09")
 			(effects
 				(font
@@ -25228,6 +25278,7 @@
 			(at 2.6016 1.016 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3eb0968c-cc58-4dc8-9356-38b30c81e86b")
 			(effects
 				(font
@@ -25339,14 +25390,14 @@
 			(layer "F.CrtYd")
 			(uuid "9a4569ae-8e08-4675-9a81-95c718371657")
 		)
-		(fp_text user "22nF"
-			(at -4.8152 0 0)
+		(fp_text user "0.022UF"
+			(at -6.9224 0.8292 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "bed7d99c-23cf-4f3b-8073-f9d63667cd6d")
 			(effects
 				(font
-					(size 2 2)
+					(size 1.9 1.9)
 					(thickness 0.3)
 				)
 			)
@@ -25516,6 +25567,7 @@
 		(property "Reference" "B1"
 			(at 3.8608 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b0e8a255-39d9-4a99-85a8-692561d76731")
 			(effects
 				(font
@@ -25935,6 +25987,7 @@
 			(at 2.5194 -1.397 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e1d89a93-3d02-4b16-b1d1-4b5de95d6388")
 			(effects
 				(font
@@ -26100,6 +26153,7 @@
 		(property "Reference" "B13"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6db2397b-0f81-4e40-bced-acadace8a443")
 			(effects
 				(font
@@ -26486,6 +26540,7 @@
 		(property "Reference" "R25"
 			(at 5.0292 -0.0254 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "5ef226a3-8264-4419-8238-04d7068ecae9")
 			(effects
 				(font
@@ -26831,6 +26886,7 @@
 		(property "Reference" "ROM-F0"
 			(at 7.9756 -0.6096 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fd8a005b-74c5-4f6b-b872-ee5b39c322d7")
 			(effects
 				(font
@@ -27735,6 +27791,7 @@
 		(property "Reference" "E10"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e516a598-692c-4004-b006-5b71c56b48a6")
 			(effects
 				(font
@@ -28167,6 +28224,7 @@
 		(property "Reference" "C3"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "f563fd61-68f6-4c01-8299-3fa23d46f4db")
 			(effects
 				(font
@@ -28600,6 +28658,7 @@
 		(property "Reference" "F14"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "23e23876-2741-407d-becf-3610712e2150")
 			(effects
 				(font
@@ -29019,6 +29078,7 @@
 			(at 2.587 -1.27 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "23103c4e-870d-4fe5-9bf6-22278c3b44dc")
 			(effects
 				(font
@@ -29183,6 +29243,7 @@
 			(at 2.5194 -1.397 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "065331c8-58cc-4ea7-bb8e-ee4926a9d203")
 			(effects
 				(font
@@ -29348,6 +29409,7 @@
 		(property "Reference" "H1"
 			(at 3.81 -0.5588 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e9267969-9d8d-44b2-a32c-cd0d0d60608b")
 			(effects
 				(font
@@ -29734,6 +29796,7 @@
 		(property "Reference" "D12"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e3031590-49b3-42f3-be41-a41dedaf4bfa")
 			(effects
 				(font
@@ -30154,6 +30217,7 @@
 		(property "Reference" "H10"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1a71739b-c90d-4fe1-911e-4a3f2480bd27")
 			(effects
 				(font
@@ -30732,6 +30796,7 @@
 		(property "Reference" "C1"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "68d4f854-6fe6-499e-ace0-1b5945b48cf2")
 			(effects
 				(font
@@ -31152,6 +31217,7 @@
 		(property "Reference" "E9"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1e2bc351-e5f6-4f0b-8c3f-ca3083d9a8d8")
 			(effects
 				(font
@@ -31756,6 +31822,7 @@
 		(property "Reference" "E4"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3f8057fd-f9d6-47e9-ae32-cdd700057291")
 			(effects
 				(font
@@ -32187,6 +32254,7 @@
 			(at 2.5194 -1.5748 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e27d6046-f91a-4ea3-bc74-8f966d021432")
 			(effects
 				(font
@@ -33031,6 +33099,7 @@
 			(at 2.5194 -1.27 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "8cb005c3-0463-47e5-9195-133284cd00a3")
 			(effects
 				(font
@@ -33196,6 +33265,7 @@
 		(property "Reference" "Q3"
 			(at 1.198158 1.723419 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c90186b1-6db9-4bfa-aa71-7a9070ba9ff2")
 			(effects
 				(font
@@ -33217,7 +33287,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -45)
+			(at 0 0 135)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2c54addc-3c25-47ef-895d-5826e056d10a")
@@ -33229,7 +33299,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -45)
+			(at 0 0 135)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "15938d7b-b6e1-4754-a69b-335a4fff28de")
@@ -33522,6 +33592,7 @@
 		(property "Reference" "C14"
 			(at 3.81 -0.6858 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d9299df9-3f79-43f9-9eda-f76517ad4098")
 			(effects
 				(font
@@ -33908,6 +33979,7 @@
 		(property "Reference" "D5"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "948236d3-a36a-4dba-a325-cf193077e604")
 			(effects
 				(font
@@ -34340,6 +34412,7 @@
 		(property "Reference" "J14"
 			(at 3.81 -0.7112 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "89231466-7977-4317-9d23-ccfd493b54a5")
 			(effects
 				(font
@@ -34838,6 +34911,7 @@
 		(property "Reference" "D13"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "4356942c-8371-4c5d-ae8e-dfc29a2aeb45")
 			(effects
 				(font
@@ -35258,6 +35332,7 @@
 		(property "Reference" "R10"
 			(at 5.08 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c0229849-0859-46f9-b7e9-4adf0045dbcc")
 			(effects
 				(font
@@ -35591,6 +35666,7 @@
 		(property "Reference" "E8"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a83c9eed-c6fa-469f-bdde-6baa1d34ae9c")
 			(effects
 				(font
@@ -36023,6 +36099,7 @@
 		(property "Reference" "C9"
 			(at 3.8354 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "754d521e-1355-47e5-8d7b-044d928f8bea")
 			(effects
 				(font
@@ -36455,6 +36532,7 @@
 		(property "Reference" "D8"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c0040f5a-695b-4815-b93a-b0d4b4f6eab5")
 			(effects
 				(font
@@ -36886,6 +36964,7 @@
 			(at 2.5762 -1.4732 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0b1cd19f-aed0-46be-8cd5-66a5bcd9566d")
 			(effects
 				(font
@@ -37051,6 +37130,7 @@
 		(property "Reference" "A8"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b726ea3a-e322-420a-8aee-fc66cceaa3a2")
 			(effects
 				(font
@@ -38138,6 +38218,7 @@
 		(property "Reference" "SPKR1"
 			(at 0 -2.33 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d186b926-7410-459b-a04b-3ec7f1dd0891")
 			(effects
 				(font
@@ -38508,6 +38589,7 @@
 		(property "Reference" "F13"
 			(at 3.8608 -0.6096 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "55eac7e9-9d5a-4cbc-bb54-f2a49e67b59a")
 			(effects
 				(font
@@ -39039,6 +39121,7 @@
 		(property "Reference" "B2"
 			(at 3.8608 -0.6096 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "2e07e3a6-d00a-440c-bfcf-262cc4d59630")
 			(effects
 				(font
@@ -39424,6 +39507,7 @@
 			(at 2.5194 -1.4732 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d9a6a168-47c4-4a8c-83d3-7dbbaf39fc7a")
 			(effects
 				(font
@@ -39446,7 +39530,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "51c62e27-391e-490f-b7b5-a8947e999c4f")
@@ -39458,7 +39542,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6db36bf2-9782-4e43-965d-38c868e61032")
@@ -39470,7 +39554,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dc8b44e9-f247-46d3-a3ea-1867dfa82921")
@@ -39589,6 +39673,7 @@
 		(property "Reference" "R3"
 			(at 5.08 -0.1016 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b88a98fe-59fc-47ee-88f0-369d917b37be")
 			(effects
 				(font
@@ -39933,6 +40018,7 @@
 			(at 2.5616 1.4732 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "49519384-5a83-4ea2-97f7-550366feb7d7")
 			(effects
 				(font
@@ -40098,6 +40184,7 @@
 		(property "Reference" "B8"
 			(at 3.8354 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "5bb24fa3-1b73-4360-b280-2ac2606bce50")
 			(effects
 				(font
@@ -40518,6 +40605,7 @@
 		(property "Reference" "B5"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "bc456f3e-4915-42f3-be02-6f2bc20ec584")
 			(effects
 				(font
@@ -40937,6 +41025,7 @@
 			(at 2.46 1.27 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "98884608-c15a-4ab0-ad48-99381a5a8330")
 			(effects
 				(font
@@ -41101,6 +41190,7 @@
 			(at 2.5194 -1.2192 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "8fbf1936-49f9-40c6-a439-e3fd523c3b99")
 			(effects
 				(font
@@ -41266,6 +41356,7 @@
 		(property "Reference" "E7"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fbcbb82b-1b95-4c9f-86ea-421422fa9715")
 			(effects
 				(font
@@ -41697,6 +41788,7 @@
 			(at 2.6016 1.524 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "864bbd71-0126-4486-83c4-79b3d5aa3054")
 			(effects
 				(font
@@ -41719,7 +41811,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ba0a70d-e1af-407a-a051-010c1bdd7c5d")
@@ -41731,7 +41823,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c81908fc-01e0-4691-b7df-61130b77d529")
@@ -41743,7 +41835,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cf6310c0-70be-43c3-83a9-52dd903083e6")
@@ -41862,6 +41954,7 @@
 		(property "Reference" "H14"
 			(at 3.7592 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6fb440c6-9884-42ac-80e4-48ed6ca2d1b1")
 			(effects
 				(font
@@ -42282,6 +42375,7 @@
 		(property "Reference" "R1"
 			(at 5.0546 -0.127 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "eb4522d1-55b4-47df-b3f7-ab6662464893")
 			(effects
 				(font
@@ -42627,6 +42721,7 @@
 			(at 2.4346 -1.27 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a4cf6ab4-d4cd-4819-b5ed-b5f066c6c17a")
 			(effects
 				(font
@@ -42925,6 +43020,7 @@
 		(property "Reference" "D3"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e8b8f558-fda0-4f38-8ef9-3ab3029c2a90")
 			(effects
 				(font
@@ -43357,6 +43453,7 @@
 		(property "Reference" "A5"
 			(at 7.5692 -0.6604 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "083be7c1-6091-419d-b1e7-61a9d782caf7")
 			(effects
 				(font
@@ -44393,6 +44490,7 @@
 			(at 2.5362 -1.3462 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "9ea4d3ab-0995-4944-8717-7334d9ea4866")
 			(effects
 				(font
@@ -44558,6 +44656,7 @@
 		(property "Reference" "C11"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e9899b60-da13-4d83-a413-c2a35c428429")
 			(effects
 				(font
@@ -44940,6 +45039,7 @@
 		(property "Reference" "E2"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "859cb8c5-3431-40ed-bebe-4bc9e4c0305d")
 			(effects
 				(font
@@ -45359,6 +45459,7 @@
 			(at 2.4492 -1.524 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "15d90ca1-b6e3-4011-a70d-4b550b873b8c")
 			(effects
 				(font
@@ -45524,6 +45625,7 @@
 		(property "Reference" "H3"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c3bc38c7-a8af-44b3-9949-bbb4b4af9ba2")
 			(effects
 				(font
@@ -45944,6 +46046,7 @@
 		(property "Reference" "H4"
 			(at 3.81 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fc806863-a23a-4105-b824-aafc422cac19")
 			(effects
 				(font
@@ -46364,6 +46467,7 @@
 		(property "Reference" "A3"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "821ac78f-0418-4d31-b14f-b09171ea315e")
 			(effects
 				(font
@@ -46796,6 +46900,7 @@
 			(at 2.4746 -1.4732 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "66211527-677a-421b-a425-bdecd468ad30")
 			(effects
 				(font
@@ -46960,6 +47065,7 @@
 			(at 2.587 1.397 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "728de76f-66bb-43a0-9a39-d369dd0ba1e0")
 			(effects
 				(font
@@ -47125,6 +47231,7 @@
 		(property "Reference" "R21"
 			(at 5.08 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "f231ef01-9baa-4c0a-8810-fff90ec6f440")
 			(effects
 				(font
@@ -47458,6 +47565,7 @@
 		(property "Reference" "RA03"
 			(at 20.066 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d8797675-9b0b-4f17-826f-11e108f01aeb")
 			(effects
 				(font
@@ -47790,6 +47898,7 @@
 			(at 2.4854 -1.5748 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "bb410e2c-9aae-4643-83bb-6c88290af12d")
 			(effects
 				(font
@@ -47812,7 +47921,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ab1e4ee7-8188-4b90-b1ce-08a4f64b48db")
@@ -47824,7 +47933,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c83ce90a-4b06-488a-9775-5d6e6b234420")
@@ -47836,7 +47945,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85bbae86-e186-4d6d-b9ef-4d4482015b86")
@@ -47955,6 +48064,7 @@
 		(property "Reference" "C8"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "48e8e116-e019-4f2a-93f2-1750b98b9e9c")
 			(effects
 				(font
@@ -48387,6 +48497,7 @@
 		(property "Reference" "D14"
 			(at 3.7592 -0.6858 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "9ae34977-5258-4889-a348-ea3b6d88d2cc")
 			(effects
 				(font
@@ -48807,6 +48918,7 @@
 		(property "Reference" "Q1"
 			(at 1.466276 -2.089724 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "75a44048-8192-4901-917b-e2b6806e1604")
 			(effects
 				(font
@@ -49090,6 +49202,7 @@
 		(property "Reference" "C2"
 			(at 3.8354 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e49199d8-fa9a-43c2-a5c3-9092968136a7")
 			(effects
 				(font
@@ -49510,6 +49623,7 @@
 		(property "Reference" "Cap2"
 			(at 2.4492 1.1684 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "8fa50a54-25de-40ab-aa97-a086d5d203d9")
 			(effects
 				(font
@@ -49742,6 +49856,7 @@
 			(at 2.46 -1.524 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fbb557f1-0152-4730-aed8-bd2295f8c5b7")
 			(effects
 				(font
@@ -49907,6 +50022,7 @@
 		(property "Reference" "R9"
 			(at 5.08 -0.0508 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "ef9e9dfe-4085-4294-9e1c-396e84fed19f")
 			(effects
 				(font
@@ -49928,7 +50044,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cdb21b7b-c6f8-4354-b47c-6a5914305125")
@@ -49940,7 +50056,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "91829d79-4b42-4f04-8575-f0ca54b4a45f")
@@ -49952,7 +50068,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db5f0b46-7de0-46e0-a95e-70c5373ede7f")
@@ -50240,6 +50356,7 @@
 		(property "Reference" "B11"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "7762bff7-648c-4043-a242-afad725f8479")
 			(effects
 				(font
@@ -50620,6 +50737,7 @@
 		(property "Reference" "B6"
 			(at 3.8354 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d99e77ee-de5e-4583-8cd9-28be2281941a")
 			(effects
 				(font
@@ -51040,6 +51158,7 @@
 		(property "Reference" "E12"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c0afb8d5-b2ba-49f8-b6b8-e9497ceb9b43")
 			(effects
 				(font
@@ -51820,6 +51939,7 @@
 		(property "Reference" "E11"
 			(at 3.8608 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "02e3682b-7006-47dd-a6d5-287dba3016ca")
 			(effects
 				(font
@@ -52527,6 +52647,7 @@
 		(property "Reference" "B12"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a09ebf90-9855-41cb-a506-3c59c2f010e7")
 			(effects
 				(font
@@ -52906,6 +53027,7 @@
 			(at 2.54 -1.651 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6f857193-cd1d-48f3-8389-b8924280e3e6")
 			(effects
 				(font
@@ -52928,7 +53050,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a795a1e-2f1f-4ebd-b91e-70a80fd13062")
@@ -52940,7 +53062,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a77a4ef3-469a-47bf-85d5-38f933a4414e")
@@ -52952,7 +53074,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cb4c1bdd-64f8-4b10-8c97-6526fc125f9d")
@@ -53071,6 +53193,7 @@
 		(property "Reference" "R17"
 			(at 5.1308 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fbbd9474-be8f-48a6-8922-f0500a481c26")
 			(effects
 				(font
@@ -53404,6 +53527,7 @@
 		(property "Reference" "ROM-F8"
 			(at 7.8232 0.1524 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e45fcedb-0eed-4d38-a9bb-4cb6a55e73aa")
 			(effects
 				(font
@@ -53925,6 +54049,7 @@
 		(property "Reference" "B4"
 			(at 3.8354 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "60794b2d-b869-4389-adb9-b2cc412b81d9")
 			(effects
 				(font
@@ -54345,6 +54470,7 @@
 		(property "Reference" "R8"
 			(at 5.08 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e78afe61-17ce-44ba-bb1e-34eb6e7d3972")
 			(effects
 				(font
@@ -54366,7 +54492,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d15caee-0719-45ed-bf81-408dd473ea01")
@@ -54378,7 +54504,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8cab5768-e46c-4258-a748-14fbf6b2cf22")
@@ -54390,7 +54516,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "746c2fcc-55fb-4fac-a008-e617a180366e")
@@ -54678,6 +54804,7 @@
 		(property "Reference" "B10"
 			(at 3.8354 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0f157669-b38e-4c3d-85d8-e2aaecd566f4")
 			(effects
 				(font
@@ -55502,6 +55629,7 @@
 		(property "Reference" "A2"
 			(at 3.8608 -0.8128 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "f3acb755-08dc-4745-839e-2f7a4b84da1d")
 			(effects
 				(font
@@ -55888,6 +56016,7 @@
 		(property "Reference" "H12"
 			(at 3.7592 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d5795abe-ac08-4e64-a4d5-fcf196737595")
 			(effects
 				(font
@@ -56308,6 +56437,7 @@
 		(property "Reference" "R6"
 			(at 5.08 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a3392f0a-60eb-411d-ac86-d3e474d29c61")
 			(effects
 				(font
@@ -56640,6 +56770,7 @@
 			(at 2.627 -1.4732 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "4f764990-9e15-4011-90bb-5bbae09f3604")
 			(effects
 				(font
@@ -56803,8 +56934,9 @@
 		(descr "TO-92 leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q4"
-			(at 1.4732 2.1336 180)
+			(at 1.4732 2.1336 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "9a93e821-b08e-482a-86fe-3220c2291b11")
 			(effects
 				(font
@@ -56826,7 +56958,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f91af641-fc60-43ee-be9a-2988e6d91ed5")
@@ -56838,7 +56970,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3c8713dc-ea19-4a7f-b8a1-047aaffc6499")
@@ -56850,7 +56982,7 @@
 			)
 		)
 		(property "Description" "NPN Darlington transistor, emitter/base/collector"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8fdd763c-b65f-427d-b2aa-b7f4155cc3ba")
@@ -57491,6 +57623,7 @@
 		(property "Reference" "ROM-E8"
 			(at 7.62 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6d821517-6880-4d89-bb65-d2e3e889c8b1")
 			(effects
 				(font
@@ -58010,6 +58143,7 @@
 			(at 2.4854 -1.397 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "ee446677-a66d-467c-996d-693c582b408a")
 			(effects
 				(font
@@ -58174,6 +58308,7 @@
 			(at 2.4346 -1.4224 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a7768c46-0cbd-42bd-ba74-1eed056e284c")
 			(effects
 				(font
@@ -58196,7 +58331,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56fa1db3-59cb-4546-a4b8-68becc2f2409")
@@ -58208,7 +58343,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6f245402-3ce0-480f-92bc-ebaa0e31d059")
@@ -58220,7 +58355,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "598d1590-fbd6-4c73-87d0-94d3c4e9724d")
@@ -58338,6 +58473,7 @@
 			(at 2.46 -1.524 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "2c66f7a7-86fe-431d-8b19-57604595d5c2")
 			(effects
 				(font
@@ -58360,7 +58496,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d54568c0-426b-4cc8-b1e8-765df07eb4e4")
@@ -58372,7 +58508,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bfa99a26-2d91-4d66-bacc-9a10bb12114e")
@@ -58384,7 +58520,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "53b542d4-72ff-4455-a8eb-3a52e42a8e1c")
@@ -58503,6 +58639,7 @@
 		(property "Reference" "R24"
 			(at 5.1816 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "007e61d1-afa2-41fb-ba12-f12fc5793871")
 			(effects
 				(font
@@ -58947,6 +59084,7 @@
 		(property "Reference" "R4"
 			(at 5.08 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "870e6564-051e-4345-a40a-82677a0bec81")
 			(effects
 				(font
@@ -59292,6 +59430,7 @@
 		(property "Reference" "R13"
 			(at 4.9784 -0.127 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0176c73b-6081-4519-8669-ad250f24bcdc")
 			(effects
 				(font
@@ -59637,6 +59776,7 @@
 		(property "Reference" "RA02"
 			(at 19.812 -0.1524 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d43bec67-d1a6-4989-9df9-8651059d08db")
 			(effects
 				(font
@@ -59969,6 +60109,7 @@
 			(at 2.5 -1.524 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "81747174-0c46-460d-8a0d-9c8b3c7ff96e")
 			(effects
 				(font
@@ -59991,7 +60132,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6a8ed3d-507b-4978-824c-e899f44c134b")
@@ -60003,7 +60144,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d5c7ea08-3ad0-4be2-8200-435a730528c5")
@@ -60015,7 +60156,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04f9ef5d-dc6e-4645-9332-188944f867bc")
@@ -61482,6 +61623,7 @@
 		(property "Reference" "ROM-D0"
 			(at 7.62 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1af3b466-964f-48e4-8565-d4d0984a028d")
 			(effects
 				(font
@@ -62002,6 +62144,7 @@
 		(property "Reference" "C13"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "974c6cb1-4e8f-4621-b85f-a96e61acc7a2")
 			(effects
 				(font
@@ -62388,6 +62531,7 @@
 		(property "Reference" "ROM-D8"
 			(at 7.62 -0.6096 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "473feefd-54bd-40b5-bc83-9afbc54eea71")
 			(effects
 				(font
@@ -62908,6 +63052,7 @@
 		(property "Reference" "R20"
 			(at 5.08 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "8e08311b-fdde-4496-9edf-954c099b53f2")
 			(effects
 				(font
@@ -63241,6 +63386,7 @@
 		(property "Reference" "R2"
 			(at 5.08 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b89bd0d2-ba13-4319-8199-f03c91352f67")
 			(effects
 				(font
@@ -63586,6 +63732,7 @@
 		(property "Reference" "K13"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "7c75ce4a-2bd7-4c92-81ed-76532c7d7328")
 			(effects
 				(font
@@ -63916,6 +64063,7 @@
 			(at 2.5194 -1.524 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "42e57c08-6400-4f9b-9c07-170d23105b09")
 			(effects
 				(font
@@ -64080,6 +64228,7 @@
 			(at 2.5616 -1.4224 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b16a3208-1400-495b-b90f-9f4911de6ce2")
 			(effects
 				(font
@@ -64102,7 +64251,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "38740eb3-732a-425b-ab49-546b9f031ec4")
@@ -64114,7 +64263,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "05040515-2657-4c91-9a37-c85ebc4ed9f9")
@@ -64126,7 +64275,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5e7dac0-2301-41d5-9361-db6c57a54684")
@@ -64245,6 +64394,7 @@
 		(property "Reference" "F12"
 			(at 3.8608 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b5b467ff-5313-47bc-81ea-0f2a7b82e003")
 			(effects
 				(font
@@ -64665,6 +64815,7 @@
 		(property "Reference" "F1"
 			(at 3.81 -0.6604 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "bc99d48c-b6be-459e-a0d1-a86f9962e62d")
 			(effects
 				(font
@@ -65063,6 +65214,7 @@
 		(property "Reference" "F2"
 			(at 3.8608 -0.7112 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e5ecc378-ca90-4e30-b913-a7461442e6c6")
 			(effects
 				(font
@@ -65483,6 +65635,7 @@
 		(property "Reference" "C10"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0fc454b9-8816-445e-8fc7-0abc020a9485")
 			(effects
 				(font
@@ -65915,6 +66068,7 @@
 		(property "Reference" "C12"
 			(at 3.7592 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d01a6cc2-7d76-4f63-9477-aa36ae1611fa")
 			(effects
 				(font
@@ -66445,6 +66599,7 @@
 			(at 2.5194 -1.27 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c1318741-ea7e-49c3-b3b2-8417b58247b8")
 			(effects
 				(font
@@ -66610,6 +66765,7 @@
 		(property "Reference" "B7"
 			(at 3.81 -0.762 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e1255920-3817-4ebe-ab63-0fa1580a3d71")
 			(effects
 				(font
@@ -67030,6 +67186,7 @@
 		(property "Reference" "R23"
 			(at 5.08 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3ab07b83-df06-49a6-b102-f358134ca443")
 			(effects
 				(font
@@ -67363,6 +67520,7 @@
 		(property "Reference" "D4"
 			(at 3.81 -0.635 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3e3469a2-2cb3-499f-b957-97222356366b")
 			(effects
 				(font
@@ -67795,6 +67953,7 @@
 		(property "Reference" "J1"
 			(at 3.8608 -0.5588 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3bd1c994-ce60-4e3e-a946-ad7ae751294f")
 			(effects
 				(font
@@ -68882,6 +69041,7 @@
 		(property "Reference" "C7"
 			(at 3.81 -0.6858 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "122c6ee3-2588-4374-80b8-772b14186976")
 			(effects
 				(font
@@ -69313,6 +69473,7 @@
 			(at 2.6416 -1.524 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0866b178-bb51-4c12-a7dd-d9b9f6300467")
 			(effects
 				(font
@@ -69477,6 +69638,7 @@
 			(at 2.5 -1.27 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1f0b191d-4043-4397-8562-253fe46fcf4e")
 			(effects
 				(font
